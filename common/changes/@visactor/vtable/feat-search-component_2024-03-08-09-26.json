@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@visactor/vtable",
+      "comment": "feat: add search component",
+      "type": "minor"
+    }
+  ],
+  "packageName": "@visactor/vtable"
+}
